@@ -1,4 +1,3 @@
-<a href="facebook_ads_example"> Clique aqui para ver um exemplo de como uma empresa usa anúncios do Facebook. </a>
 <div align="center">
 <h6>Elias Prates</h6>
 <h6>Análise e Desenvolvimento de Sistemas</h6>
@@ -34,5 +33,3 @@
 &nbsp;
 
 ------------
-<a id="facebook_ads_example"> Este é o exemplo de anúncio do Facebook para o qual desejo criar um link. </a>
-
