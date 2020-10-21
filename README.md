@@ -1,9 +1,9 @@
 <table width=100% border=0>
   <tr>
     <td align="center">
-      <a name="top"<img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/course.svg" height="20"></a>
+      <a name="top"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/course.svg" height="20"></a>
     </td>
-    <td align="center">
+    <td align="top">
     <h5>Análise e Desenvolvimento de Sistemas</h5>
     </td>
   </tr>
@@ -11,7 +11,7 @@
 
 <table>
   <tr>
-    <td><h5>Full Stack Developer</h5></td>
+    <td><h5>Desenvolvimento Full Stack</h5></td>
     <td>
       <a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/c-sharp.svg" height="30"></a>       </td>
     <td>
