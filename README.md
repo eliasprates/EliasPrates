@@ -1,9 +1,3 @@
-|:---:|
-|Elias Prates|
-|<h6>Superior em Análise e Desenvolvimento de Sistemas</h6>|
-
-
-
 <table>
   <tr>
     <td><h5>Desenvolvimento Full Stack</h5></td>
