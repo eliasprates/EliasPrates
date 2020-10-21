@@ -1,7 +1,8 @@
 <div align="center">
 <h6>Elias Prates</h6>
 <h6>Análise e Desenvolvimento de Sistemas</h6>
-<h6>(31) 97342-7174</h6>
+<h6><a name="top" href="https://wa.me/5531973427174"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/whatsapp.svg" height="30"></a>
+(31) 97342-7174</h6>
 <p><a name="top" href="https://www.linkedin.com/in/eliasprates"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/linkedin.svg" height="50"></a></p>
 
 ------------
