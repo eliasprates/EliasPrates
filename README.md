@@ -22,3 +22,7 @@
 ------------
 
 <h5>Cloud Computing Platforms</h5>
+&nbsp;
+<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/azure.svg" height="30"></a>
+&nbsp;
+<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/aws.svg" height="30"></a>
