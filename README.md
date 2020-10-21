@@ -6,6 +6,9 @@
       Análise e Desenvolvimento de Sistemas
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td><h5>Full Stack Developer</h5></td>
     <td>
