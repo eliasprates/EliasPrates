@@ -1,4 +1,4 @@
-<table width=100%>
+<table width=100% border=0>
   <tr>
     <td align="center"><a name="top" href="https://uninter.com"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/course.svg" height="20"></a>
     </td>
