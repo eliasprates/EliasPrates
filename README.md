@@ -6,7 +6,7 @@
 
 ------------
 
-<h6><small>Clique no icone abaixo para chamar no Whatsapp</small><h6><br>
+<h6><small>Clique no icone abaixo para chamar no Whatsapp</small><h6>
 <a name="top" href="https://wa.me/5531973427174"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/whatsapp.svg" height="30"></a>
 
 ------------
