@@ -1,4 +1,4 @@
-<a href=" #facebook_ads_example "> Clique aqui para ver um exemplo de como uma empresa usa anúncios do Facebook. </a>
+<a href="facebook_ads_example"> Clique aqui para ver um exemplo de como uma empresa usa anúncios do Facebook. </a>
 <div align="center">
 <h6>Elias Prates</h6>
 <h6>Análise e Desenvolvimento de Sistemas</h6>
