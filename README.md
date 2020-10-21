@@ -34,3 +34,4 @@
 <a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/aws.svg" height="20"></a>
 &nbsp;
 
+https://wa.me/5531973427174
