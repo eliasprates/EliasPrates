@@ -5,6 +5,7 @@
 <p align="rigth"><a name="top" href="https://www.linkedin.com/in/eliasprates"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/linkedin.svg" height="50"></a></p>
 
 ------------
+<h5>Full Stack Developer</h5>
 
 
 
