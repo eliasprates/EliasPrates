@@ -1,7 +1,9 @@
+<div align="center">
 ##### Elias Prates
 ##### Análise e Desenvolvimento de Sistemas
 ##### (31) 97342-7174
 <p align="rigth"><a name="top" href="https://www.linkedin.com/in/eliasprates"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/linkedin.svg" height="50"></a></p>
+</div>
 
 ------------
 <table align="center" border="1" cellpadding="1" cellspacing="1" style="width:100%">
