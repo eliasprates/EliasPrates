@@ -1,13 +1,8 @@
-<table style="min-width:100%" width=100% border=0>
-  <tr>
-    <td align="center">
-      <a name="top"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/course.svg" height="20"></a>
-    </td>
-    <td align="top">
-    <h5>Análise e Desenvolvimento de Sistemas</h5>
-    </td>
-  </tr>
-</table>
+|:---:|
+|Elias Prates|
+|<h6>Superior em Análise e Desenvolvimento de Sistemas</h6>|
+
+
 
 <table>
   <tr>
