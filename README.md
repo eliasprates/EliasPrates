@@ -3,7 +3,7 @@
     <td align="center"><a name="top" href="https://uninter.com"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/course.svg" height="30"></a>
     </td>
     <td>
-      Análise e Desenvolvimento de Sistemas
+      <h4>Análise e Desenvolvimento de Sistemas</h4>
     </td>
   </tr>
 </table>
