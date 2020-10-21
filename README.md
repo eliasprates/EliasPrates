@@ -1,6 +1,6 @@
 <table width=100%>
   <tr>
-    <td align="center"><a name="top" href="https://uninter.com"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/course.svg" height="30"></a>
+    <td align="center"><a name="top" href="https://uninter.com"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/course.svg" height="20"></a>
     </td>
     <td>
       <h4>Análise e Desenvolvimento de Sistemas</h4>
