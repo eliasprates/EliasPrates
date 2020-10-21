@@ -18,7 +18,6 @@
 &nbsp;
 <a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/angular.svg" height="30"></a>
 &nbsp;
-<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/sql-server.svg" height="35"></a>
 
 ------------
 
