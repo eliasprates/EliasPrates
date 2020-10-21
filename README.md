@@ -26,7 +26,7 @@
 <a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/azure.svg" height="30"></a>
 &nbsp;
 &nbsp;
-<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/google-cloud.svg" height="30"></a>
+<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/google-cloud.svg" height="25"></a>
 &nbsp;
 &nbsp;
 <a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/aws.svg" height="20"></a>
