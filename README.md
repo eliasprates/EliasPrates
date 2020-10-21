@@ -3,11 +3,8 @@
 <h6>Análise e Desenvolvimento de Sistemas</h6>
 <h6>(31) 97342-7174</h6>
 <p align="rigth"><a name="top" href="https://www.linkedin.com/in/eliasprates"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/linkedin.svg" height="50"></a></p>
-</div>
 
 ------------
-<div> teste
-</div>
 
 
 
@@ -49,3 +46,4 @@
 		</tr>
 	</tbody>
 </table>
+</div>
