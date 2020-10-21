@@ -1,9 +1,10 @@
 <table width=100% border=0>
-  <tr border=0>
-    <td align="center"><a name="top" href="https://uninter.com"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/course.svg" height="20"></a>
+  <tr>
+    <td align="center" border=0>
+      <a name="top" href="https://uninter.com"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/course.svg" height="20"></a>
     </td>
     <td>
-      <tr>
+      <tr border=0>
         <h4>Análise e Desenvolvimento de Sistemas</h4>
       </tr>
       <tr>
