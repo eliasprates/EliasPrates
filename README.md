@@ -1,12 +1,14 @@
-<table>
+<table width=100%>
   <tr>
-    <td><a name="top" href="https://uninter.com"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/course.svg" height="30"></a>
+    <td align="center"><a name="top" href="https://uninter.com"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/course.svg" height="30"></a>
     </td>
     <td>
       Análise e Desenvolvimento de Sistemas
     </td>
   </tr>
-  <tr>Full Stack Developer</tr>
+  <tr>
+    <td><h5>Full Stack Developer</h5></td>
+  </tr>
 </table>
 <a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/c-sharp.svg" height="30"></a>
 <a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/net-core.svg" height="30"></a>
