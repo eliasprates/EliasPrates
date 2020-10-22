@@ -1,6 +1,6 @@
 <div align="center">
 <h6>Elias Prates<br>
-Análise e Desenvolvimento de Sistemas<br>
+Superior em Análise e Desenvolvimento de Sistemas<br>
 (31) 97342-7174</h6>
   
 ------------
