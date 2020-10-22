@@ -6,7 +6,7 @@ Análise e Desenvolvimento de Sistemas<br>
 ------------
 
 <h6>LinkedIn Profile<h6>
-<a name="top" href="https://www.linkedin.com/in/eliasprates"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/linkedin.svg" height="30"></a>
+<a name="top" href="https://www.linkedin.com/in/eliasprates"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/linkedin.svg" height="50"></a>
 
 ------------
 
@@ -15,7 +15,7 @@ Análise e Desenvolvimento de Sistemas<br>
 
 ------------
 
-<h5>Full Stack Developer</h5>
+<h6>Full Stack Developer</h6>
 &nbsp;
 <a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/c-sharp.svg" height="30"></a>
 &nbsp;
@@ -32,7 +32,7 @@ Análise e Desenvolvimento de Sistemas<br>
 
 ------------
 
-<h5>Cloud Computing Platforms</h5>
+<h6>Cloud Computing Platforms</h6>
 &nbsp;
 <a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/azure.svg" height="30"></a>
 &nbsp;
