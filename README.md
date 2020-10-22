@@ -5,8 +5,8 @@ Análise e Desenvolvimento de Sistemas<br>
   
 ------------
 
-<h6>LinkeIn Profile<h6>
-<p><a name="top" href="https://www.linkedin.com/in/eliasprates"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/linkedin.svg" height="50"></a></p>
+<h6>LinkedIn Profile<h6>
+<a name="top" href="https://www.linkedin.com/in/eliasprates"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/linkedin.svg" height="50"></a>
 
 ------------
 
