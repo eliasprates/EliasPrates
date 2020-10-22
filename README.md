@@ -5,14 +5,14 @@ Análise e Desenvolvimento de Sistemas<br>
   
 ------------
 
-<h6><small>LinkeIn Profile</small><h6>
+<h6>LinkeIn Profile<h6>
 <p><a name="top" href="https://www.linkedin.com/in/eliasprates"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/linkedin.svg" height="50"></a></p>
 
 ------------
 
-<h6>Add Whatsapp
+<h6>Add Whatsapp</h6>
 <a name="top" href="https://wa.me/5531973427174"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/whatsapp.svg" height="30"></a>
-</h6>
+
 ------------
 
 <h5>Full Stack Developer</h5>
