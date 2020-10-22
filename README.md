@@ -1,7 +1,7 @@
 <div align="center">
-<h6>Elias Prates</h6>
-<h6>Análise e Desenvolvimento de Sistemas</h6>
-<h6>(31) 97342-7174</h6>
+<h6>Elias Prates<br>
+Análise e Desenvolvimento de Sistemas<br>
+(31) 97342-7174</h6>
 <p><a name="top" href="https://www.linkedin.com/in/eliasprates"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/linkedin.svg" height="50"></a></p>
 
 ------------
