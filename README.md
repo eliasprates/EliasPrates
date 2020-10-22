@@ -1,7 +1,10 @@
 <div align="center">
 <h6>Elias Prates<br>
-Superior em Análise e Desenvolvimento de Sistemas<br>
-(31) 97342-7174</h6>
+Formação: Superior em Análise e Desenvolvimento de Sistemas<br>
+Tel: (31) 97342-7174<br>
+E-mail: contato@eliasprates.com.br<br>
+        eliasprofissional@gmail.com
+</h6>
   
 ------------
 
