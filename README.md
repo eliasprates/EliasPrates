@@ -20,7 +20,7 @@ E-mail: contato@eliasprates.com.br<br>
 
 <h6>Full Stack Developer</h6>
 &nbsp;
-<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/c-sharp.svg" height="30"></a>
+<a name="top" href="https://github.com/EliasPrates?tab=repositories&q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/c-sharp.svg" height="30"></a>
 &nbsp;
 <a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/net-core.svg" height="30"></a>
 &nbsp;
