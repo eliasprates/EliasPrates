@@ -1,48 +1,25 @@
-<div align="center">
-<h6>Elias Prates<br>
-Formação: Superior em Análise e Desenvolvimento de Sistemas<br>
-Tel: (31) 97342-7174<br>
-E-mail: contato@eliasprates.com.br<br>
-        eliasprofissional@gmail.com
-</h6>
-  
-------------
+# Elias Prates
 
-<h6>LinkedIn Profile<h6>
-<a name="top" href="https://www.linkedin.com/in/eliasprates"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/linkedin.svg" height="50"></a>
+## Sobre Mim
+Olá! Sou Elias, formado em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uninter. Sou apaixonado por desenvolvimento e arquitetura de software, com um forte interesse em filosofia, negócios e tecnologia. Especializei-me em criar soluções eficientes e robustas, empregando as melhores práticas de desenvolvimento de software.
 
-------------
+## Contato
+- 📧 Email: [eliasprates@gmail.com](mailto:eliasprates@gmail.com)
+- 📞 Telefone: (31) 97342-7174
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias_Prates-blue?style=flat&logo=linkedin)[LinkedIn Profile](https://www.linkedin.com/in/eliasprates)
 
-<h6>Add Whatsapp</h6>
-<a name="top" href="https://wa.me/5531973427174"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/whatsapp.svg" height="30"></a>
+##Algumas das Minhas Habilidades Técnicas
+- **Linguagens & Frameworks:** .NET, Entity Framework Core, Dapper, Angular
+- **Front-end:** SPA, JavaScript, TypeScript
+- **Back-end:** SQL Server, RabbitMQ, API RESTful
+- **Práticas de Desenvolvimento:** SOLID, Design Patterns, Clean Code
 
-------------
+## Filosofia de Trabalho
+Acredito fortemente na importância de escrever códigos limpos e bem estruturados. Estou sempre em busca de aprimorar meus conhecimentos em arquitetura de software para criar soluções que não apenas atendam às necessidades do momento, mas que sejam sustentáveis e escaláveis a longo prazo.
 
-<h6>Full Stack Developer</h6>
-&nbsp;
-<a name="top" href="https://github.com/EliasPrates?tab=repositories&q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/c-sharp.svg" height="30"></a>
-&nbsp;
-<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/net-core.svg" height="30"></a>
-&nbsp;
-<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/nodejs.svg" height="33"></a>
-&nbsp;
-<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/typescriptlang-icon.svg"           height="30"></a>
-&nbsp;
-<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/javascript.svg" height="30">       </a>
-&nbsp;
-<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/angular.svg" height="30"></a>
-&nbsp;
+## Contribuições e Projetos
+*Em breve, mais informações sobre meus projetos e contribuições.*
 
-------------
+---
 
-<h6>Cloud Computing Platforms</h6>
-&nbsp;
-<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/azure.svg" height="30"></a>
-&nbsp;
-&nbsp;
-<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/google-cloud.svg" height="25"></a>
-&nbsp;
-&nbsp;
-<a name="top" href="https://github.com/EliasPrates?q=&type=&language=c%23"><img src="https://github.com/EliasPrates/EliasPrates/blob/main/img/aws.svg" height="20"></a>
-&nbsp;
-
+> “O software é uma grande combinação entre arte e engenharia.” – Bill Gates
