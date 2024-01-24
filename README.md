@@ -1,7 +1,7 @@
 # Elias Prates
 
 ## Sobre Mim
-Olá! Sou Elias, formado em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uninter. Sou apaixonado por desenvolvimento e arquitetura de software, com um forte interesse negócios e tecnologia. Me preocupo em criar soluções eficientes e robustas, empregando as melhores práticas de desenvolvimento de software.
+Olá! Sou Elias, formado em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uninter. Sou apaixonado por desenvolvimento e arquitetura de software, com um forte interesse em negócios e tecnologia. Me preocupo em criar soluções eficientes e robustas, empregando as melhores práticas de desenvolvimento de software.
 
 ## Contato
 - 📧 Email: [eliasprates@gmail.com](mailto:eliasprates@gmail.com)
