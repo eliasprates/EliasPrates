@@ -11,7 +11,3 @@ dos negócios. Possuo boa comunicação, boa didática e
 bom relacionamento interpessoal. Amo aprender, colaborar e
 compartilhar conhecimento.
 
-## Contato
-- 📧 Email: [eliasprates@gmail.com](mailto:eliasprates@gmail.com)
-- 📞 Telefone: (31) 97342-7174
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias_Prates-blue?style=flat&logo=linkedin)[LinkedIn Profile](https://www.linkedin.com/in/eliasprates)
